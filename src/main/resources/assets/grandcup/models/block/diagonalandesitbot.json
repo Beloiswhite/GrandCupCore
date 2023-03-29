@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "grandcup:blocks/andesite",
+    "up": "grandcup:blocks/andesite",
+    "north": "grandcup:blocks/diagonal_andesite_bottom",
+    "east": "grandcup:blocks/diagonal_andesite_bottom",
+    "south": "grandcup:blocks/diagonal_andesite_bottom",
+    "west": "grandcup:blocks/diagonal_andesite_bottom",
+    "particle": "grandcup:blocks/andesite"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "insmonia_teleport": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "grandcup:insomnia_teleport_sound",
+        "stream": false
+      }
+    ]
+  },
+  "insomniaportal_living": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "grandcup:insomnia_portal_livingsound",
+        "stream": false
+      }
+    ]
+  },
+  "nether_lolt_living": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "grandcup:nether_lolt",
+        "stream": false
+      }
+    ]
+  }
+}

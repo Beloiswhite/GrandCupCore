@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "grandcup:block/insomniablock_5"
+    },
+    "type=top": {
+      "model": "grandcup:block/insomniablock_5_top"
+    },
+    "type=double": {
+      "model": "grandcup:block/insomniablock_5_full"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "grandcup:mainrudium"
+    },
+    "1": {
+      "item": "grandcup:mainrudium"
+    },
+    "2": {
+      "item": "grandcup:mainrudium"
+    },
+    "3": {
+      "item": "grandcup:reinforced_stick"
+    },
+    "5": {
+      "item": "grandcup:reinforced_stick"
+    }
+  },
+  "result": {
+    "item": "grandcup:mainrudium_tool_axe",
+    "count": 1
+  }
+}

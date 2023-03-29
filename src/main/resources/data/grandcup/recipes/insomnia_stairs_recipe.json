@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "grandcup:insomnia_planks"
+    },
+    "3": {
+      "item": "grandcup:insomnia_planks"
+    },
+    "4": {
+      "item": "grandcup:insomnia_planks"
+    },
+    "6": {
+      "item": "grandcup:insomnia_planks"
+    },
+    "7": {
+      "item": "grandcup:insomnia_planks"
+    },
+    "8": {
+      "item": "grandcup:insomnia_planks"
+    }
+  },
+  "result": {
+    "item": "grandcup:insomnia_stairs",
+    "count": 4
+  }
+}

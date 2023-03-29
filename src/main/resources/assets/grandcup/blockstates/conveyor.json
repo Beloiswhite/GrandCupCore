@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "grandcup:block/conveyor"
+    },
+    "facing=east": {
+      "model": "grandcup:block/conveyor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "grandcup:block/conveyor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "grandcup:block/conveyor",
+      "y": 270
+    }
+  }
+}

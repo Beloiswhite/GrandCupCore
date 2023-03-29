@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "grandcup:peaceful_planks"
+    },
+    "1": {
+      "item": "grandcup:peaceful_planks"
+    },
+    "2": {
+      "item": "grandcup:peaceful_planks"
+    }
+  },
+  "result": {
+    "item": "grandcup:peaceful_slab",
+    "count": 6
+  }
+}

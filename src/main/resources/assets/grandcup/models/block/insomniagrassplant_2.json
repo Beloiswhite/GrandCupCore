@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "grandcup:blocks/insomniagrassplant2",
+    "particle": "grandcup:blocks/insomniagrassplant2"
+  }
+}

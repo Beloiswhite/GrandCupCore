@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "grandcup:blocks/peaceful_planks",
+    "top": "grandcup:blocks/peaceful_planks",
+    "side": "grandcup:blocks/peaceful_planks"
+  }
+}

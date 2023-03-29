@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "grandcup:nether_shard"
+    },
+    "3": {
+      "item": "grandcup:nether_shard"
+    },
+    "4": {
+      "item": "minecraft:nether_brick"
+    },
+    "5": {
+      "item": "grandcup:nether_shard"
+    },
+    "7": {
+      "item": "grandcup:nether_shard"
+    }
+  },
+  "result": {
+    "item": "grandcup:netherium_ingot",
+    "count": 1
+  }
+}

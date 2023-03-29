@@ -1,0 +1,29 @@
+{
+  "_fv": 33,
+  "_type": "structure",
+  "definition": {
+    "structure": "abyss_tree4",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 10000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "CUSTOM:TheAbyss"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:AbyssGrassBlock"
+      },
+      {
+        "value": "CUSTOM:AbyssDirt"
+      }
+    ],
+    "restrictionBiomes": [],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

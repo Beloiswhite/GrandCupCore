@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "grandcup:abyss_wood_planks"
+    },
+    "1": {
+      "item": "grandcup:abyss_wood_planks"
+    }
+  },
+  "result": {
+    "item": "grandcup:abyss_wood_pressure_plate",
+    "count": 1
+  }
+}

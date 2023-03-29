@@ -1,0 +1,7 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "grandcup:blocks/insomnia_grass_plant",
+    "particle": "grandcup:blocks/insomnia_grass_plant"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "grandcup:peaceful_log"
+    },
+    "1": {
+      "item": "grandcup:peaceful_log"
+    },
+    "2": {
+      "item": "grandcup:peaceful_log"
+    },
+    "3": {
+      "item": "grandcup:peaceful_log"
+    }
+  },
+  "result": {
+    "item": "grandcup:peaceful_wood",
+    "count": 3
+  }
+}

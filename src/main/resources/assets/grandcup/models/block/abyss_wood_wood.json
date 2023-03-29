@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "grandcup:blocks/abyss_log_side",
+    "particle": "grandcup:blocks/abyss_log_side"
+  }
+}

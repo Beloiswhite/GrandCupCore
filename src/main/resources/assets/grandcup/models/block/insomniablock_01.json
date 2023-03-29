@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "grandcup:blocks/insomnia_block_01_topdown",
+    "up": "grandcup:blocks/insomnia_block_01_topdown",
+    "north": "grandcup:blocks/insomnia_block_0_1",
+    "east": "grandcup:blocks/insomnia_block_0_1",
+    "south": "grandcup:blocks/insomnia_block_0_1",
+    "west": "grandcup:blocks/insomnia_block_0_1",
+    "particle": "grandcup:blocks/insomnia_block_01_topdown"
+  }
+}

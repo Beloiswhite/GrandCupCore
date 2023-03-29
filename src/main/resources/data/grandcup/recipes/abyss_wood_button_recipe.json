@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "grandcup:abyss_wood_planks"
+    }
+  ],
+  "result": {
+    "item": "grandcup:abyss_wood_button",
+    "count": 1
+  }
+}

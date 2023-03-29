@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "grandcup:blocks/flouritore_red",
+    "particle": "grandcup:blocks/flouritore_red"
+  }
+}

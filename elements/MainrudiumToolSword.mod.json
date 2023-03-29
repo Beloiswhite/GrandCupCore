@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "tool_mainrudium_sword",
+    "customModelName": "Normal",
+    "name": "Мейнрудиумовый меч",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 7.0,
+    "attackSpeed": 0.9,
+    "enchantability": 18,
+    "damageVsEntity": 8.0,
+    "usageCount": 700,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Mainrudium"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "grandcup:abyss_wood_planks"
+    },
+    "1": {
+      "item": "grandcup:abyss_wood_planks"
+    },
+    "2": {
+      "item": "grandcup:abyss_wood_planks"
+    }
+  },
+  "result": {
+    "item": "grandcup:abyss_wood_slab",
+    "count": 6
+  }
+}

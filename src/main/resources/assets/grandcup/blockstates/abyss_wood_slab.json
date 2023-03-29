@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "grandcup:block/abyss_wood_slab"
+    },
+    "type=top": {
+      "model": "grandcup:block/abyss_wood_slab_top"
+    },
+    "type=double": {
+      "model": "grandcup:block/abyss_wood_slab_full"
+    }
+  }
+}

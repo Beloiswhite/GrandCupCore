@@ -1,0 +1,8 @@
+{
+  "parent": "grandcup:custom/abyssvine",
+  "textures": {
+    "all": "grandcup:blocks/abyssvine",
+    "particle": "grandcup:blocks/abyssvine",
+    "0": "grandcup:blocks/abyssvine"
+  }
+}

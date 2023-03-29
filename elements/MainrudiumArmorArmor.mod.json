@@ -1,0 +1,62 @@
+{
+  "_fv": 33,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "armor_mainrudium_head",
+    "enableBody": true,
+    "textureBody": "armor_mainrudium_body",
+    "enableLeggings": true,
+    "textureLeggings": "armor_mainrudium_leggings",
+    "enableBoots": true,
+    "textureBoots": "armor_mainrudium_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "armorTextureFile": "armor_mainrudium",
+    "helmetName": "Мейнрудиумовый шлем",
+    "bodyName": "Мейнрудиумовая кираса",
+    "leggingsName": "Мейнрудиумовые поножи",
+    "bootsName": "Мейнрудиумовые ботинки",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 21,
+    "damageValueHelmet": 3,
+    "damageValueBody": 7,
+    "damageValueLeggings": 8,
+    "damageValueBoots": 3,
+    "enchantability": 13,
+    "toughness": 0.0,
+    "knockbackResistance": 0.1,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Mainrudium"
+      }
+    ]
+  }
+}

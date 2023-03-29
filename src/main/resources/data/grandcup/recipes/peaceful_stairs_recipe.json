@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "grandcup:peaceful_planks"
+    },
+    "3": {
+      "item": "grandcup:peaceful_planks"
+    },
+    "4": {
+      "item": "grandcup:peaceful_planks"
+    },
+    "6": {
+      "item": "grandcup:peaceful_planks"
+    },
+    "7": {
+      "item": "grandcup:peaceful_planks"
+    },
+    "8": {
+      "item": "grandcup:peaceful_planks"
+    }
+  },
+  "result": {
+    "item": "grandcup:peaceful_stairs",
+    "count": 4
+  }
+}

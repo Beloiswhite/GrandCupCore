@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "grandcup:blocks/abyss_planks",
+    "particle": "grandcup:blocks/abyss_planks"
+  }
+}

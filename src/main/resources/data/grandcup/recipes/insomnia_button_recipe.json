@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "grandcup:insomnia_planks"
+    }
+  ],
+  "result": {
+    "item": "grandcup:insomnia_button",
+    "count": 1
+  }
+}

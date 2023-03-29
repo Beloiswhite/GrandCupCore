@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "grandcup:blocks/insomnia_block_1",
+    "top": "grandcup:blocks/insomnia_block_1",
+    "side": "grandcup:blocks/insomnia_block_1"
+  }
+}

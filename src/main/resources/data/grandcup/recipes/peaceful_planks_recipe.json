@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:peaceful_log"
+    }
+  ],
+  "result": {
+    "item": "grandcup:peaceful_planks",
+    "count": 4
+  }
+}

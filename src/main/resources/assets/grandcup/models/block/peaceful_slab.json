@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "grandcup:blocks/peaceful_planks",
+    "top": "grandcup:blocks/peaceful_planks",
+    "side": "grandcup:blocks/peaceful_planks"
+  }
+}

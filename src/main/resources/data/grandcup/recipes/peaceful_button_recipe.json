@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "grandcup:peaceful_planks"
+    }
+  ],
+  "result": {
+    "item": "grandcup:peaceful_button",
+    "count": 1
+  }
+}

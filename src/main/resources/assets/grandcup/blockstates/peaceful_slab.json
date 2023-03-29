@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "grandcup:block/peaceful_slab"
+    },
+    "type=top": {
+      "model": "grandcup:block/peaceful_slab_top"
+    },
+    "type=double": {
+      "model": "grandcup:block/peaceful_slab_full"
+    }
+  }
+}

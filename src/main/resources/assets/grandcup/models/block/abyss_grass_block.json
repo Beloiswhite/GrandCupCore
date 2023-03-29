@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "grandcup:blocks/abyssdirt",
+    "up": "grandcup:blocks/abyssgrassblock_top",
+    "north": "grandcup:blocks/abyssgrassblock",
+    "east": "grandcup:blocks/abyssgrassblock",
+    "south": "grandcup:blocks/abyssgrassblock",
+    "west": "grandcup:blocks/abyssgrassblock",
+    "particle": "grandcup:blocks/abyssdirt"
+  }
+}

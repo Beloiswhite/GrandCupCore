@@ -1,0 +1,11 @@
+{
+  "_fv": 33,
+  "_type": "tab",
+  "definition": {
+    "name": "GrandCup GCCore",
+    "icon": {
+      "value": "CUSTOM:Gctab"
+    },
+    "showSearch": false
+  }
+}

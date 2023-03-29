@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "grandcup:soulcluster"
+    },
+    "title": {
+      "translate": "advancements.soul_cluster_pick_up.title"
+    },
+    "description": {
+      "translate": "advancements.soul_cluster_pick_up.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "soul_cluster_pick_up": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "grandcup:g_ccore"
+}

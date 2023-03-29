@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "grandcup:blocks/peaceful_planks",
+    "particle": "grandcup:blocks/peaceful_planks"
+  }
+}

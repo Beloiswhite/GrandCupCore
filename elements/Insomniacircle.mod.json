@@ -1,0 +1,21 @@
+{
+  "_fv": 33,
+  "_type": "particle",
+  "definition": {
+    "texture": "particle_circle.png",
+    "animate": false,
+    "frameDuration": 2,
+    "width": 0.2,
+    "height": 0.2,
+    "scale": 1.0,
+    "speedFactor": 0.5,
+    "gravity": -0.6,
+    "maxAge": 60,
+    "maxAgeDiff": 10,
+    "angularVelocity": 0.0,
+    "angularAcceleration": 0.0,
+    "canCollide": false,
+    "alwaysShow": true,
+    "renderType": "LIT"
+  }
+}

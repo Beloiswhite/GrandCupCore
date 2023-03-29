@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "grandcup:blocks/peacefulforest_log_top",
+    "up": "grandcup:blocks/peacefulforest_log_top",
+    "north": "grandcup:blocks/peacefulforest_log",
+    "east": "grandcup:blocks/peacefulforest_log",
+    "south": "grandcup:blocks/peacefulforest_log",
+    "west": "grandcup:blocks/peacefulforest_log",
+    "particle": "grandcup:blocks/peacefulforest_log_top"
+  }
+}

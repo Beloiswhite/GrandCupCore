@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "tool_mainrudium_pickaxe",
+    "customModelName": "Normal",
+    "name": "Мейнрудиумовая Кирка",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 2,
+    "efficiency": 7.0,
+    "attackSpeed": 1.0,
+    "enchantability": 18,
+    "damageVsEntity": 3.0,
+    "usageCount": 361,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Mainrudium"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "_fv": 33,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">geckolib_model</field><next><block type=\"layer_setup\"><field name=\"model\">pathfinder</field><field name=\"texture\">pathfinder_glow</field></block></next></block></xml>"
+  }
+}

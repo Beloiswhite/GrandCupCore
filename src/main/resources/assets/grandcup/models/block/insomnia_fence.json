@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "grandcup:blocks/insomnia_planks",
+    "particle": "grandcup:blocks/insomnia_planks"
+  }
+}

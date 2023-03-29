@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "grandcup:block/insomnia_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "grandcup:block/insomnia_wood"
+    },
+    "axis=z": {
+      "model": "grandcup:block/insomnia_wood",
+      "x": 90
+    }
+  }
+}

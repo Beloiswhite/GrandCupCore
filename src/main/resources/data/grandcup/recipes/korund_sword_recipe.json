@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "grandcup:korund_ingot"
+    },
+    "1": {
+      "item": "grandcup:korund_ingot"
+    },
+    "2": {
+      "item": "grandcup:reinforced_stick"
+    }
+  },
+  "result": {
+    "item": "grandcup:korund_sword",
+    "count": 1
+  }
+}

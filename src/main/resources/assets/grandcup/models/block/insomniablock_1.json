@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "grandcup:blocks/insomnia_block_1",
+    "particle": "grandcup:blocks/insomnia_block_1"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_fv": 33,
+  "_type": "structure",
+  "definition": {
+    "structure": "soul_altar",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 5000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -2,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [],
+    "restrictionBiomes": [
+      {
+        "value": "plains"
+      },
+      {
+        "value": "smaller_extreme_hills"
+      },
+      {
+        "value": "snowy_mountains"
+      },
+      {
+        "value": "mutated_taiga_cold"
+      },
+      {
+        "value": "mutated_taiga"
+      },
+      {
+        "value": "savanna"
+      },
+      {
+        "value": "savanna_rock"
+      },
+      {
+        "value": "mutated_savanna_rock"
+      },
+      {
+        "value": "mutated_savanna"
+      },
+      {
+        "value": "beaches"
+      },
+      {
+        "value": "cold_beach"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

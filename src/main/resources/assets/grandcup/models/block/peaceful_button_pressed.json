@@ -1,0 +1,6 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "grandcup:blocks/peaceful_planks"
+  }
+}

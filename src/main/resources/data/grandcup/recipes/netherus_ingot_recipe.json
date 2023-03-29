@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "grandcup:netherium_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "grandcup:netherium_ingot"
+    },
+    {
+      "item": "grandcup:nether_heart"
+    },
+    {
+      "item": "grandcup:netherium_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "grandcup:netherium_ingot"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "item": "grandcup:netherus_ingot",
+    "count": 1
+  }
+}

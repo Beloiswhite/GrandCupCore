@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "grandcup:blocks/insomnia_block_01_topdown",
+    "top": "grandcup:blocks/insomnia_block_01_topdown",
+    "side": "grandcup:blocks/insomnia_block_01_topdown"
+  }
+}

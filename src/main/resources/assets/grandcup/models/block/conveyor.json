@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "grandcup:blocks/conveyor_side",
+    "up": "grandcup:blocks/conveyor_top",
+    "north": "grandcup:blocks/conveyor_side",
+    "east": "grandcup:blocks/conveyor_side",
+    "south": "grandcup:blocks/conveyor_side",
+    "west": "grandcup:blocks/conveyor_side",
+    "particle": "grandcup:blocks/conveyor_side"
+  }
+}

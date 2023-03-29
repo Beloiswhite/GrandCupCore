@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "grandcup:mainrudium"
+    },
+    "1": {
+      "item": "grandcup:mainrudium"
+    },
+    "2": {
+      "item": "grandcup:mainrudium"
+    },
+    "3": {
+      "item": "grandcup:mainrudium"
+    },
+    "5": {
+      "item": "grandcup:mainrudium"
+    },
+    "6": {
+      "item": "grandcup:mainrudium"
+    },
+    "8": {
+      "item": "grandcup:mainrudium"
+    }
+  },
+  "result": {
+    "item": "grandcup:mainrudium_armor_armor_leggings",
+    "count": 1
+  }
+}
